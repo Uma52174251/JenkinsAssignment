@@ -1,6 +1,6 @@
 package com.capsotone.suite;
 
-public class UseCase2 {
+public class Name {
 
   public void MyName() {
 
