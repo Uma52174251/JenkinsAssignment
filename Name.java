@@ -2,7 +2,7 @@ package com.capsotone.suite;
 
 public class Name {
 
-	public void MyName() {
+	public void public static void main(String args[]) {
 		System.out.println("My Name is Uma Sankar Jana");
 	}
 }
